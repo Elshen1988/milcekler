@@ -1,0 +1,32 @@
+h2{
+    color: rgb(241, 99, 16);
+}
+h3{
+    color: rgb(36, 151, 7);
+}
+.b1{
+    display: none;
+    width: 70px;
+}
+.a1:hover .b1{
+    display: flex;
+}
+.b2{
+    display: none;
+    width: 60px;
+}
+.a2:hover .b2{
+    display: flex;
+}
+.tip{
+    width: 250px;
+}
+h4{
+    color: rgb(36, 151, 7);
+}
+p{
+    font-size: 20px;
+}
+h5{
+    color: brown;
+}
